@@ -26,7 +26,7 @@ JavaScript, dinamik web sayfaları oluşturmak için kullanılan bir dildir. HTM
 
 <h1 align="center">HTTP Server kullanarak Nodejs servisi nasıl ayağı kaldırılır.</h1>
 
-ilk olarak node.js kurulumunu gerçekleştiriyoruz daha sonra konsol ekranına <pre> node -v </pre>
+ilk olarak node.js kurulumunu gerçekleştiriyoruz daha sonra konsol ekranına <pre>node -v </pre>
 komutunu yazıyoruz versiyonu ekranda görüyorsak node.js kurulumunu gerçekleştirmiş oluyoruz. 
 
 http server paketini kurmak için:
