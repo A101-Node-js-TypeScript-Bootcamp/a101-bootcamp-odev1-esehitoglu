@@ -35,7 +35,7 @@ http server paketini kurmak için:
 Daha sonra projemizin içine index.js isminde bir dosya oluşturuyoruz ((farklı isimli dosya da olabilir) ve içine kodlarımızı yazıyoruz.
 
 ```javascript
- var http = require('http'); //yeni bir server objesi oluşturuyoruz
+var http = require('http'); //yeni bir server objesi oluşturuyoruz
 http.createServer(function (req, res) {
   res.writeHead(200,{'content-type':'text/html;charset=utf-8'});
   res.write('<b> Merhaba Dünya! </b>'); //sunucuya yazılacak mesajı belirliyoruz
@@ -104,5 +104,7 @@ yazıyoruz ve tarayıcımızda görüntülemek için:
 http://localhost:3000/
 ```
 adresine gidiyoruz.
+
+![](https://github.com/esehitoglu/1.-odev/blob/main/figures/screenshot_20220109_173431.png)
 
 
