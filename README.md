@@ -21,6 +21,9 @@ dosya uzantısı .js | dosya uzantısı .ts
 <h2 align="center">JavaScript ve TypeScript</h2>
 JavaScript, dinamik web sayfaları oluşturmak için kullanılan bir dildir. HTML ve CSS ile entegre edilmesi kolay, hafif bir yorumlanmış dildir. Form doğrulama, animasyon ve bir web sayfasına multimedya yetenekleri eklemek için kullanışlıdır. TypeScript, ek özelliklere sahip JavaScript'tir. JavaScript ve TypeScript arasındaki fark, JavaScript'in istemci tarafı kodlama dili olması ve TypeScript'in Nesne Yönelimli bir derlenmiş dil olmasıdır.
 
+<h2 align="center">TypeScrip Avantajlarıt</h2>
+![](https://github.com/esehitoglu/1.-odev/blob/main/figures/09f3f48adf2719c5.jpeg)
+
 ![](https://github.com/esehitoglu/1.-odev/blob/main/figures/09f3f48adf2719c5.jpeg)
 
 
